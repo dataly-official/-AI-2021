@@ -21,13 +21,11 @@
 + 결과 발표 및 시상 : 12.15.
 
 
-# 주최 
+# 주관/주최 : 한국지능정보사회진흥원(NIA)/데이터리(Data.ly)
 
-**This work was supported by Institute for NIA grant funded by the Korea government (~) (No.??, ??)**
++ Project Name : AI language training data for automation of civil affair work (민원 업무 자동화 인공지능 언어 데이터)
 
-+ Project Name : ?? (프로젝트명)
-
-+ Managed by data.ly <img align="right" src="http://wisedome.kr/static/img/logo_dataly.png" width=300px>
++ Managed by Data.ly <img align="right" src="http://wisedome.kr/static/img/logo_dataly.png" width=300px>
 
 + Participated Affiliation : Data.ly, 창원시청, NHN다이퀘스트, 에프아이솔루션, 케이웨어  
 
