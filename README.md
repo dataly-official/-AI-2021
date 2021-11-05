@@ -8,6 +8,11 @@
 
 이번 해커톤에 관심이 있는 참가자분들이 파이썬을 이용하여 민원 데이터를 활용한 AI 모델을 직접 개발할 수 있는 기회가 되길 바랍니다.
 
+## 개요
++ 참가 대상: 전국대학에 재학 중인 대학생 이상 개인 또는 팀(3인 이하)
++ 참가 신청: 참가신청서 및 개발 계획서(pdf), 개인정보이용동의서 및 참가서약서(mail제출)
+  - mail: data.ly.official@gmail.com
+  
 ## 대회 주요 일정
 + 참가팀 모집 및 명세 : 11.10. ~ 11.15.
 + 대회 시작 : 11.16. ~ 12.10.
@@ -17,14 +22,9 @@
 ## 주제
 민원 데이터의 부서 정보를 활용하여 부서 분류 모델 개발
 
-## 개요
-+ 참가 대상: 전국대학에 재학 중인 대학생 이상 개인 또는 팀(3인 이하)
-+ 참가 신청: 참가신청서 및 개발 계획서(pdf), 개인정보이용동의서 및 참가서약서(mail제출)
-  - mail: data.ly.official@gmail.com
-
 # 주최 
 
-**This work was supported by Institute for NIA grant funded by the Korea government (MSIT) (No.??, ??)**
+**This work was supported by Institute for NIA grant funded by the Korea government (~) (No.??, ??)**
 
 + Project Name : ?? (프로젝트명)
 
