@@ -1,4 +1,4 @@
-![poster](https://user-images.githubusercontent.com/93746948/140470285-69f8740a-99d0-462e-abff-580fc88f90c1.png)
+![poster](https://user-images.githubusercontent.com/93746948/140471737-e4165bc6-7655-4808-bffe-524edb65e16b.png)
 # 민원 데이터 활용 AI 해커톤 2021
 민원 데이터의 부서 정보를 활용하여 부서 분류 모델을 개발하는 해커톤입니다. 많은 참여부탁드립니다.
 
