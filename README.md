@@ -51,4 +51,4 @@
 
 + Participated Affiliation : Data.ly, 창원시청, NHN다이퀘스트, 에프아이솔루션, 케이웨어  
 
-+ Web Site : <http://wisedome.kr>
++ Website : <http://wisedome.kr>
