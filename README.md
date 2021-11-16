@@ -29,7 +29,7 @@
   + 중복의 팀에 참가 불가능합니다.
 + 답안 제출
   + 결과물 포맷(json, https://github.com/dataly-official/AI-Hackathon-2021-Using-Civil-Service-Data/issues/2#issue-1054353844
-)과 구조에 맞춰 제출합니다. dep 정보를 채워서 제출합니다.
+)에 맞춰 dep 정보를 채워서 제출합니다.
   + 포맷 불일치시 해당 파일은 평가되지 않습니다.
   + 한팀은 하루에 한번 답안을 제출 가능합니다.
 
