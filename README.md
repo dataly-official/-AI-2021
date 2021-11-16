@@ -45,6 +45,40 @@
   + Accuracy가 높은 순으로 순위를 정의합니다.
   + 모델의 출력물로 요구되는 항목과, 최종 성능평가 방법에 대해서는 추후 공지될 예정입니다.
 
+## 리더보드(모델 평가 순위)
+
+<table>
+    <thead>
+        <tr>
+            <th>순위</th>
+            <th>팀명</th>
+            <th>Accuracy</th>
+        </tr>
+    </thead>
+    <tbody>        
+        <tr>
+            <td> 1위 </td>
+            <td> - </td>
+            <td> - </td>
+        </tr>
+        <tr>
+            <td> 2위 </td>
+            <td> - </td>
+            <td> - </td>
+        </tr>
+        <tr>
+            <td rowspan=2> 3위 </td>
+            <td> - </td>
+            <td> - </td>
+        </tr>
+        <tr>            
+            <td> - </td>
+            <td> - </td>
+        </tr>
+    </tbody>
+</table>
+
+
 # 주관/주최 : 한국지능정보사회진흥원(NIA)/데이터리(Data.ly)
 
 + Project Name : AI language training data for automation of civil affair work (민원 업무 자동화 인공지능 언어 데이터)
