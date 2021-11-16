@@ -28,9 +28,10 @@
   + 개인 또는 3인 이하로 팀 구성 가능합니다.
   + 중복의 팀에 참가 불가능합니다.
 + 답안 제출
-  + 결과물 포맷(json, 추후 공지)과 구조에 맞춰 제출합니다. 포맷 불일치시 해당 파일은 평가되지 않습니다.
+  + 결과물 포맷(json, https://github.com/dataly-official/AI-Hackathon-2021-Using-Civil-Service-Data/issues/2#issue-1054353844
+)과 구조에 맞춰 제출합니다. dep 정보를 채워서 제출합니다.
+  + 포맷 불일치시 해당 파일은 평가되지 않습니다.
   + 한팀은 하루에 한번 답안을 제출 가능합니다.
-https://github.com/dataly-official/AI-Hackathon-2021-Using-Civil-Service-Data/issues/2#issue-1054353844
 
 + 모델 제출
   + 과제 운영 종료 후, 리더보드 상위권 참가자 대상으로 모델 제출을 요청합니다.
