@@ -49,7 +49,7 @@
   + Accuracy가 높은 순으로 순위를 정의합니다. 
 
 ## 리더보드(모델 평가 순위)
-
+ + 결과물 파일 생성하실 때 utf-8로 인코딩하여 제출바랍니다.
 <table>
     <thead>
         <tr>
@@ -61,13 +61,13 @@
     <tbody>        
         <tr>
             <td> 1위 </td>
-            <td> - </td>
-            <td> - </td>
+            <td> Air너구리 </td>
+            <td> 79.86% </td>
         </tr>
         <tr>
             <td> 2위 </td>
-            <td> - </td>
-            <td> - </td>
+            <td> SuperAwsome </td>
+            <td> 8.74% </td>
         </tr>
         <tr>
             <td rowspan=2> 3위 </td>
