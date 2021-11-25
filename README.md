@@ -61,18 +61,18 @@
     <tbody>        
         <tr>
             <td> 1위 </td>
-            <td> Air너구리 </td>
-            <td> 79.86% </td>
+            <td> SuperAwsome </td>
+            <td> 80.88% </td>
         </tr>
         <tr>
             <td> 2위 </td>
-            <td> SuperAwsome </td>
-            <td> 8.74% </td>
+            <td> Air너구리 </td>
+            <td> 80.24% </td>
         </tr>
         <tr>
             <td rowspan=2> 3위 </td>
-            <td> - </td>
-            <td> - </td>
+            <td> 빅터널스 </td>
+            <td> 77.1% </td>
         </tr>
         <tr>            
             <td> - </td>
