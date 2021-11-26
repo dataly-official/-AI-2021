@@ -62,12 +62,12 @@
         <tr>
             <td> 1위 </td>
             <td> SuperAwsome </td>
-            <td> 80.88% </td>
+            <td> 80.72% </td>
         </tr>
         <tr>
             <td> 2위 </td>
             <td> Air너구리 </td>
-            <td> 80.24% </td>
+            <td> 78.54% </td>
         </tr>
         <tr>
             <td rowspan=2> 3위 </td>
