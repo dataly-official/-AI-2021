@@ -61,22 +61,22 @@
     <tbody>        
         <tr>
             <td> 1위 </td>
+            <td> 빅터널스 </td>
+            <td> 80.94% </td>
+        </tr>
+        <tr>
+            <td> 2위 </td>
             <td> SuperAwsome </td>
             <td> 80.88% </td>
         </tr>
         <tr>
-            <td> 2위 </td>
+            <td rowspan=2> 3위 </td>
             <td> Air너구리 </td>
             <td> 80.26% </td>
         </tr>
-        <tr>
-            <td rowspan=2> 3위 </td>
-            <td> 빅터널스 </td>
-            <td> 77.1% </td>
-        </tr>
         <tr>            
-            <td> - </td>
-            <td> - </td>
+            <td> 데이터베이 </td>
+            <td> 77.32% </td>
         </tr>
     </tbody>
 </table>
