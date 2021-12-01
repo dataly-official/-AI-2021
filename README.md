@@ -48,7 +48,7 @@
   + 참가자가 제출한 dep와 정답을 비교하여 Accuracy를 계산합니다.
   + Accuracy가 높은 순으로 순위를 정의합니다. 
 
-## 리더보드(모델 평가 순위) [UPDATE 11.30, 11am]
+## 리더보드(모델 평가 순위) [UPDATE 12.01, 10am]
  + 결과물 파일 생성하실 때 utf-8로 인코딩하여 제출바랍니다.
 <table>
     <thead>
@@ -62,21 +62,21 @@
         <tr>
             <td> 1위 </td>
             <td> 빅터널스 </td>
-            <td> 80.94% </td>
+            <td> 82.40% </td>
         </tr>
         <tr>
             <td> 2위 </td>
+            <td> 데이터베이 </td>
+            <td> 82.02% </td>
+        </tr>
+        <tr>
+            <td rowspan=2> 3위 </td>
             <td> SuperAwsome </td>
             <td> 80.88% </td>
         </tr>
         <tr>
-            <td rowspan=2> 3위 </td>
             <td> Air너구리 </td>
-            <td> 80.26% </td>
-        </tr>
-        <tr>            
-            <td> 데이터베이 </td>
-            <td> 77.32% </td>
+            <td> 77.76% </td>            
         </tr>
     </tbody>
 </table>
